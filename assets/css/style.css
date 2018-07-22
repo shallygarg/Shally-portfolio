@@ -1,0 +1,163 @@
+html, body {
+    height: 100%;
+    margin: 0%;
+}
+
+body {
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+header {
+    color: #d3931c;
+    padding: 5px 0px 13px 50px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(83, 82, 82);
+    border-width: 5px;
+}
+
+.dropdown {
+    display: inline;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+    margin-bottom: 0;
+    background-color: #fff;
+}
+
+.jumbotron p:last-child {
+    margin-bottom: 0;
+}
+
+.jumbotron-heading {
+    font-weight: 300;
+}
+
+.jumbotron .container {
+    max-width: 40rem;
+
+}
+
+.form-group {
+    float: right;
+    clear: both;
+    margin-left: -10px;
+    margin-bottom: 0%;
+}
+
+.h3-browse {
+    text-align: left;
+    font-size: 20px;
+}
+
+#footer {
+    background: rgb(49, 49, 49);
+    padding-top: 1%;
+    position: fixed;
+    text-align: center;
+    color: white;
+    border-top-style: solid;
+    border-top-color: rgb(83, 82, 82);
+    border-width: 5px;
+    height: 7%;
+}
+
+.w3layouts-foot ul li {
+    display: inline-block;
+}
+
+.w3layouts-foot ul li a {
+    width: 32px;
+    height: 32px;
+    color: #fff;
+    border: 1px solid #fff;
+    text-align: center;
+    display: inline-block;
+    font-size: 18px;
+    line-height: 32px;
+    border-radius: 50%;
+}
+
+#about-section2 {
+    color: black;
+    background: white;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#mapid {
+    height: 200px;
+    width: 90%
+}
+
+
+.rounded-circle {
+    vertical-align: middle;
+}
+
+.col-lg-3, .col-lg-4 {
+    text-align: center;
+}
+
+.contain {
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    margin-top: auto;
+    padding-right: 15px;
+    padding-top: 25px;
+    background: rgba(255, 254, 254, 0.85);
+}
+
+.main-container {
+    background-color: white;
+    opacity: 0.85;
+    padding: 40px;
+}
+
+.contact-location {
+    border-top: 5px solid #d3931c;
+    background-color: #fff;
+    padding: 30px;
+    box-shadow: 0 8px 45px 0 rgba(0, 0, 0, 0.22);
+    height: 80%;
+    margin-bottom: 9%;
+}
+
+.contact-form {
+    float: none;
+}
+
+#message {
+    width: 100%;
+    height: 80px;
+}
+p{
+    display: inline;
+    letter-spacing: 1px;
+}
+
+#main-content{
+    position:relative;
+    top:10%;
+    background-color: white;
+    padding: 50px;
+    max-width: 960px;
+    margin: auto;  
+}
+
+.profile-image{
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
